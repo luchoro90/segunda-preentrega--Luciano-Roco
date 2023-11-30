@@ -1,0 +1,37 @@
+.Card-container {
+    padding: 30px;
+    margin-top: 10px;
+    padding-bottom: 0px;
+    height: 450px;
+    margin-bottom: -80px;
+}
+
+.Card-only {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Card-only img {
+    width: auto;
+    height: 130px;
+    image-rendering: cover;
+
+}
+
+.card-text {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title.h5 {
+    text-align: center;
+}

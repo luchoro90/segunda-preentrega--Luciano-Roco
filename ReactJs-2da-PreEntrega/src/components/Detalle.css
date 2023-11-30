@@ -1,0 +1,20 @@
+.detalle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size:cover;
+    background-position: center;
+    height: 90vh;
+    
+    }
+.Card-detalle{
+
+ display: flex;
+ font-size: 1.5rem;
+}
+.Card-detalle-descripcion{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
